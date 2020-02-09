@@ -1,1 +1,2 @@
 "This is feature A file.
+Adding second dummy line.
